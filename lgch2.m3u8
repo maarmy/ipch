@@ -117,7 +117,7 @@ http://live.cgtn.com/500d/prog_index.m3u8
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8 
 
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Berita",CNN
-https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1036.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Berita",CNN 2
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
