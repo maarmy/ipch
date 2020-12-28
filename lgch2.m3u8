@@ -103,7 +103,8 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 
 #EXTINF:-1 tvg-id="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="Berita",BBC World News
-https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+http://51.52.156.22:8888/http/004
+
 #EXTINF:-1 tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="Berita",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="BST.ID" tvg-logo="https://www.Newssatu.com/assets/img/news/news_logo.png" group-title="Berita",Berita Satu
