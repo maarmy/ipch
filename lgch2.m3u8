@@ -128,6 +128,9 @@ http://185.232.53.5:2086/wickeduk/etqyhww45e/64140?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Berita",CNN4
 http://176.10.117.3:5000/play/a03e?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Berita",CNN5
+http://showflix.org:5890/ali123/ali123123/90259?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cbsnews.png" group-title="Berita", CBS News
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
