@@ -16,7 +16,7 @@ http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna HD
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/awani.png",Astro Awani 
+#EXTINF:-1 group-title="News" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/skynews.png",Sky News
@@ -60,7 +60,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/france24.png",France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/nhkworldjp.png",NHK World Japan
+#EXTINF:-1 group-title="News" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/rt.png",RT
