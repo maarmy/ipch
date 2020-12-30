@@ -80,10 +80,10 @@ http://185.232.53.5:2086/wickeduk/etqyhww45e/3242?checkedby:iptvcat.com
 #EXTINF:-1 tvg-ID="DIS.US" tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="Amerika",Discovery
 http://185.232.53.5:2086/wickeduk/etqyhww45e/3263?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Malaysia|Movies",HBO HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Movies",HBO HD
 http://136.243.177.164/HBO/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Malaysia|Movies",Cinemax HD
+#EXTINF:-1 tvg-ID="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",Cinemax HD
 http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
@@ -134,5 +134,5 @@ http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/suria.png",Suria 
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://en.wikipedia.org/wiki/%26priv%C3%A9_HD#/media/File:Logo_of_&_Priv%C3%A9_HD.jpg" tvg-country="IN" tvg-url="" group-title="",& PRIVE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://en.wikipedia.org/wiki/%26priv%C3%A9_HD#/media/File:Logo_of_&_Priv%C3%A9_HD.jpg" tvg-country="IN" tvg-url="" group-title="Movies",& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
