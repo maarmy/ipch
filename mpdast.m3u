@@ -1,0 +1,124 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="Malaysia",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="Malaysia",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Malaysia",TV3
+https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="Malaysia",NTV 7
+https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia",8TV
+https://fvtv.mywire.org/streams/dailymotion/ch_8tv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Malaysia",TV9
+https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Malaysia",DRAMA SANGAT
+https://fvtv.mywire.org/streams/dailymotion/ch_ds.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Malaysia",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="Malaysia",ALHIJRAH
+http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="Malaysia",NAURA
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="Malaysia",HELLO
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/parlimen.png" group-title="Malaysia",PARLIMEN
+http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/salam.png" group-title="Malaysia",SALAM
+http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sensasi.png" group-title="Malaysia",SENSASI
+http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="Malaysia",DUNIA SINEMA
+http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/persona.png" group-title="Malaysia",PERSONA
+http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/lakumall.png" group-title="Malaysia",LAKU MALL
+http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/seti.png" group-title="Malaysia",SETI
+http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sc%20channel.png" group-title="Malaysia",SC CHANNEL
+http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/now%20jelli.png" group-title="Malaysia",NOW JELLI
+http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors%20tamil.png" group-title="Malaysia",COLORS TAMIL
+http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/polimer.png" group-title="Malaysia",POLIMER
+http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd
+
