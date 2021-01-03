@@ -36,35 +36,35 @@ http://1.9.62.158/PLTV/88888888/224/3221227530/3221227530.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT5
+#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT6
 http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT5
+#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT7
 http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT5
+#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT8
 http://1.9.62.158/PLTV/88888888/224/3221227533/3221227533.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT5
+#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT9
 http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT5
+#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT10
 http://1.9.62.158/PLTV/88888888/224/3221227535/3221227535.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT5
+#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT11
 http://1.9.62.158/PLTV/88888888/224/3221227536/3221227536.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT5
+#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="Malaysia",NAT12
 http://1.9.62.158/PLTV/88888888/224/3221227537/3221227537.mpd
