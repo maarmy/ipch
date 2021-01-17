@@ -32,6 +32,9 @@ http://1.9.58.102/PLTV/88888888/224/3221227511/3221227511.mpd
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/13602072_ico.png" group-title="Malaysia",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
+#EXTINF:-1 tvg-ID="GLN.CA" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="美洲精选",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="Malaysia",TV1
@@ -242,8 +245,19 @@ http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 #EXTINF:-1 tvg-name="304" tvg-id="CNX.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/paramount.png" group-title="Malaysia",PARAMOUNT
 http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
 
+#EXTINF:-1 tvg-ID="EP1.US" tvg-logo="https://static.epg.best/us/EPIX.us.png" group-title="Malaysia",Epix(East)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+#EXTINF:-1 tvg-ID="EP2.US" tvg-logo="https://static.epg.best/us/EPIX2.us.png" group-title="Malaysia",Epix 2 East)
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+#EXTINF:-1 tvg-ID="EP2.US" tvg-logo="https://static.epg.best/us/Cinemax.us.png" group-title="美洲精选",Cinemax USA(East)
+http://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+#EXTINF:-1 tvg-ID="EP2.US" tvg-logo="https://static.epg.best/us/Cinemax.us.png" group-title="美洲精选",Cinemax USA(West)
+http://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
 
-
+#EXTINF:-1 tvg-ID="HBE.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="美洲精选",HBO USA(East)
+http://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:-1 tvg-ID="HBW.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="美洲精选",HBO USA(West)
+http://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
