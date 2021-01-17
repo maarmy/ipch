@@ -163,16 +163,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="BBL.UK" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="Malaysia",TVN
-http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="BBL.UK" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="Malaysia",TVN MOVIES
-http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -328,4 +318,14 @@ http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 #EXTINF:-1 tvg-id=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/babytv.png" group-title="Malaysia",BABY TV
 http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="BBL.UK" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="Malaysia",TVN
+http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="BBL.UK" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="Malaysia",TVN MOVIES
+http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 
