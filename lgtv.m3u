@@ -6,9 +6,8 @@ https://pe-ak-lp01a-9c9media.akamaized.net/live/DMCDigi07/p/dash/00000001/459c40
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/tv1.png",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/tv9.png",TV9
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-
+#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/tv3.png",TV3
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
 
 #EXTINF:-1 tvg-id="MAK.SA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="Bahasa Arab",Makkah TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
