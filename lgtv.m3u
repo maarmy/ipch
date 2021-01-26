@@ -78,6 +78,9 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/okey.png",BLUE ANT
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/okey.png",BLUE ant xtreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Amerika",History
 http://185.232.53.5:2086/wickeduk/etqyhww45e/3242?checkedby:iptvcat.com
 
