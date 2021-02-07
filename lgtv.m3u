@@ -155,4 +155,15 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 #EXTINF:-1 group-title="Movie Channel", MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 
+#EXTINF:-1 group-title="Movie Channel", USA NETWORK
+http://tv.wakds.xyz:8080/@multi2021/@multi202110/3858
+
+#EXTINF:-1 group-title="Movie Channel", HBO
+http://tv.wakds.xyz:8080/@multi2021/@multi202110/94
+
+#EXTINF:-1 group-title="Movie Channel", OASIS
+http://tv.wakds.xyz:8080/@multi2021/@multi202110/166
+
+#EXTINF:-1 group-title="Movie Channel", WARNA
+http://tv.wakds.xyz:8080/@multi2021/@multi202110/180
 
