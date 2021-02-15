@@ -99,6 +99,7 @@ http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",Cinemax HD
 http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
 https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
@@ -116,7 +117,7 @@ http://185.232.53.5:2086/wickeduk/etqyhww45e/3243
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8|Referer=https://www.nasa.gov/multimedia/nasatv/index.html
 
 #EXTINF:-1 tvg-id="HBS.US" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature
-http://185.232.53.5:2086/wickeduk/etqyhww45e/3244
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBZ.US" tvg-logo="https://static.epg.best/us/HBOZone.us.png" group-title="Movies",HBO Zone
 http://live.highstream.club/live/HBOZone/playlist.m3u8
